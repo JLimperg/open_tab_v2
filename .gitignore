@@ -1,4 +1,5 @@
 target/
+.cargo/
 
 **/.DS_Store
 **/*.sqlite3
